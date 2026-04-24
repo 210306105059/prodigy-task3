@@ -4,7 +4,7 @@ Predicting which bank customers are likely to leave using machine learning. This
 
 ## Problem Statement
 
-Customer churn is one of the biggest challenges in banking. Acquiring a new customer costs 5–7x more than retaining an existing one. This project builds a classification model to flag at-risk customers so the business can intervene early.
+Customer churn is one of the biggest challenges in banking. Acquiring a new customer costs 5-7x more than retaining an existing one. This project builds a classification model to flag at-risk customers so the business can intervene early.
 
 ## Dataset
 
