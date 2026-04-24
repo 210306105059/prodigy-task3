@@ -13,7 +13,7 @@ The dataset (`bank.csv`) contains 10,000 records of bank customers with features
 - Financial: credit score, balance, estimated salary
 - Behavioural: number of products, tenure, credit card ownership, activity status
 
-**Target variable:** `Exited` — whether the customer churned (1) or stayed (0)
+**Target variable:** `Exited` - whether the customer churned (1) or stayed (0)
 
 ## Project Workflow
 
@@ -26,7 +26,7 @@ The dataset (`bank.csv`) contains 10,000 records of bank customers with features
 
 - Customers from Germany had a significantly higher churn rate compared to France and Spain
 - Customers with only one product and inactive accounts were most likely to churn
-- Age was one of the strongest predictors — middle-aged customers (40–60) churned more
+- Age was one of the strongest predictors - middle-aged customers (40–60) churned more
 
 ## Tools & Libraries
 
